@@ -44,13 +44,6 @@ This repository includes several functionalities for effective data analysis and
 
 This repository is crafted to enhance efficient data analysis workflows, encompassing data exploration and cleaning, modeling, transformation, and visualization, culminating in powerful and insightful Power BI dashboards.
 
-
-## Dashboard 📸📸
-![Power BI](images/1.png)
-
-The HR Analytics Dashboard features a refined monochromatic design, ensuring visual consistency and clarity with a single color palette. This minimalist approach allows users to focus on key HR metrics and insights without distractions, promoting ease of use and accessibility. With its sleek presentation, the dashboard empowers HR professionals with actionable insights for informed decision-making and strategic initiatives within the organization.
-
-
 ## Technologies Used 💻🔧
 Microsoft Power BI
 
