@@ -78,13 +78,3 @@ Microsoft Power Query
 
 DAX
 
-
-
-## HR Analytics Dashboard Demo 💻
-
-[![HR Analytics Dashboard Demo](https://img.youtube.com/vi/5KaIU-9EF-0/0.jpg)](https://www.youtube.com/watch?v=5KaIU-9EF-0)
-
-This HR Analytics Dashboard was created with assistance from the video linked above.
-
-*Video Credit: [Chandoo](https://www.youtube.com/@chandoo_)*
-
