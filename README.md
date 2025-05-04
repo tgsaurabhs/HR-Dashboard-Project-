@@ -30,19 +30,19 @@ Explore the dashboard, interact with visualizations, and gain insights from the 
 
 
 ## Features 🛠️📊
-This repository includes the following features for effective data analysis and visualization using Power BI:
+This repository includes several functionalities for effective data analysis and visualization utilizing Power BI:
 
-**Data Exploration & Understanding**: Explore and gain insights into the data through various techniques such as data profiling, summary statistics, and exploratory data analysis. 📈🔎
+**Data Exploration & Understanding**: Delve into the data and extract insights using various methods such as data profiling, summary statistics, and exploratory data analysis. 📈🔎
 
-**Data Transformation**: Apply data transformation techniques using DAX including filtering, grouping, and aggregation to reshape and prepare the data for analysis. 🔄🔀
+**Data Transformation**: Implement data transformation methods through DAX, including filtering, grouping, and aggregation to reshape and prepare the data for deeper analysis. 🔄🔀
 
-**Visualization Design**: Design visually appealing and informative visualizations using a wide range of chart types, colours, and formatting options to effectively communicate the insights hidden in the data. 🎨📊
+**Visualization Design**: Create attractive and informative visualizations utilizing a diverse array of chart types, colors, and formatting options to effectively convey the insights embedded in the data. 🎨📊
 
-**Dashboard Development**: Develop interactive and user-friendly dashboards that provide a comprehensive view of the data, allowing users to explore and interact with the visualizations. 📲🖥️
+**Dashboard Development**: Build interactive and user-friendly dashboards that offer a comprehensive overview of the data, enabling users to explore and engage with the visualizations. 📲🖥️
 
-**Insights**: Derive actionable insights from the data analysis and visualization, providing meaningful recommendations and decision-making support for stakeholders. 💡🔍
+**Insights**: Extract actionable insights from the data analysis and visualization, delivering valuable recommendations and support for decision-making to stakeholders. 💡🔍
 
-This repository is designed to facilitate efficient data analysis workflows, from data exploration and cleaning to modelling, transformation, and visualization, resulting in impactful and insightful Power BI dashboards.
+This repository is crafted to enhance efficient data analysis workflows, encompassing data exploration and cleaning, modeling, transformation, and visualization, culminating in powerful and insightful Power BI dashboards.
 
 
 ## Dashboard 📸📸
@@ -50,24 +50,6 @@ This repository is designed to facilitate efficient data analysis workflows, fro
 
 The HR Analytics Dashboard features a refined monochromatic design, ensuring visual consistency and clarity with a single color palette. This minimalist approach allows users to focus on key HR metrics and insights without distractions, promoting ease of use and accessibility. With its sleek presentation, the dashboard empowers HR professionals with actionable insights for informed decision-making and strategic initiatives within the organization.
 
-### Gender Analysis
-![Power BI](images/2.png)
-![Power BI](images/3.png)
-
-### Job Title - Production Operator
-![Power BI](images/4.png)
-
-### Job Title - Research Analyst
-![Power BI](images/5.png)
-
-### Employees between the age of 20-25
-![Power BI](images/6.png)
-
-### Information about the Employee named Kaine Padly
-![Power BI](images/7.png)
-
-### Date of Joining of Kaine Padly
-![Power BI](images/8.png)
 
 ## Technologies Used 💻🔧
 Microsoft Power BI
